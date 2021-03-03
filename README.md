@@ -9,3 +9,4 @@ Notes, summaries, and thoughts on the papers I read
 Reading groups:
 1. [Web, IR and NLP Public Reading Group at NUS](https://wing-nus.github.io/cs6101/)
 2. [Precog, IIITD](https://precog.iiitd.edu.in/brainstorm.html#spring2021)
+3. Masakhane's NLP study group
