@@ -1,6 +1,8 @@
 # Papers-I-Read
 Notes, summaries, and thoughts on the papers I read
 
+Find the summaries here: https://medium.com/a-paper-a-day
+
 - [x] [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a.html)
 - [x] [A case study of algorithm-assisted decision making in childmaltreatment hotline screening decisions](https://www.academia.edu/40811550/A_case_study_of_algorithm_assisted_decision_making_in_child_maltreatment_hotline_screening_decisions)
 - [x] [An AI Race for Strategic Advantage: Rhetoric and Risks](https://www.aies-conference.com/2018/contents/papers/main/AIES_2018_paper_163.pdf)
