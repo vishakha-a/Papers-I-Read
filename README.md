@@ -15,6 +15,11 @@ Find the summaries here: https://medium.com/a-paper-a-day
 - [ ] https://dl.acm.org/doi/pdf/10.5555/1858681.1858696
 - [ ] https://www.aclweb.org/anthology/N19-1220.pdf
 
+Mitacs reading list
+
+- [ ] https://arxiv.org/abs/2101.11103
+- [ ] https://arxiv.org/abs/2101.04893
+
 
 Reading groups:
 1. [Web, IR and NLP Public Reading Group at NUS](https://wing-nus.github.io/cs6101/)
