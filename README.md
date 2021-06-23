@@ -17,8 +17,9 @@ Find the summaries here: https://medium.com/a-paper-a-day
 
 Mitacs reading list
 
-- [ ] https://arxiv.org/abs/2101.11103
-- [ ] https://arxiv.org/abs/2101.04893
+- [x] https://arxiv.org/abs/2101.11103
+- [x] https://arxiv.org/abs/2101.04893
+- [x] https://arxiv.org/pdf/2101.09194.pdf
 
 
 Reading groups:
